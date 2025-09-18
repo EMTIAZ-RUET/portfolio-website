@@ -2,7 +2,7 @@
   "name": "emtiaz-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EMTIAZ-RUET.github.io/portfolio",
+  "homepage": "https://EMTIAZ-RUET.github.io/portfolio-website",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@heroicons/react": "^2.0.18",
